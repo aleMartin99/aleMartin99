@@ -1,20 +1,8 @@
-## Hi there I'm Ale 👋
-💻 I'm a Senior Software Engineer student.
-🔭 I’m currently working as a Flutter Developer.
-⚡ I’m looking to collaborate on interesting projects.
-📫 How to reach me: by email dmwhispers551@gmail.com or LinkedIn.
-<!--
-**aleMartin99/aleMartin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there I'm Ale 🖖
+- 💻 I'm a Senior Software Engineer student.
+- 🔥 I’m currently working as a Flutter Developer.
+- 👊 I’m looking to collaborate on interesting projects.
+- 📫 How to reach me: by email dmwhispers551@gmail.com or [LinkedIn](https://www.linkedin.com/in/alejandro-martín-albalah)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=karlaoh99&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
 
